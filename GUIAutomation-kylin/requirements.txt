@@ -1,0 +1,23 @@
+pyperclip
+selenium
+beautifulsoup4
+pyautogui
+python-xlib
+Xlib
+pynput
+pytest
+pytest-html
+pytest-metadata
+pillow
+pyatspi
+psutil
+six
+numpy
+packaging
+attrs
+iniconfig
+pluggy
+py
+toml
+pygobject >=3.42.2
+PyGObject
